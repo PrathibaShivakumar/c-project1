@@ -3,3 +3,5 @@ testing hooks in jenkins
 
 test is success
 test with two jobs
+
+test hooks for two jobs in same repo
